@@ -1,4 +1,5 @@
 # 📈 React Tracing [![Build Status](https://travis-ci.org/react-tracing/react-tracing.svg?branch=master)](https://travis-ci.org/react-tracing/react-tracing) [![Coverage Status](https://coveralls.io/repos/github/react-tracing/react-tracing/badge.svg?branch=master)](https://coveralls.io/github/react-tracing/react-tracing?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/react-tracing/react-tracing.svg)](https://greenkeeper.io/) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Freact-tracing%2Freact-tracing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Freact-tracing%2Freact-tracing?ref=badge_shield)
 
 ## Goal
 
@@ -159,3 +160,7 @@ Thanks goes to these wonderful people
 This project follows the
 [all-contributors](https://github.com/kentcdodds/all-contributors)
 specification. Contributions of any kind welcome!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Freact-tracing%2Freact-tracing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Freact-tracing%2Freact-tracing?ref=badge_large)
